@@ -1,0 +1,21 @@
+===== Confusion Matrix =====
+[[4468  592]
+ [1171 3769]]
+
+===== Evaluation Metrics =====
+Accuracy:  0.8237
+Precision: 0.8643
+Recall:    0.7630
+F1 Score:  0.8105
+
+===== Model Hyperparameters =====
+embedding_dim: 100
+hidden_dim: 50
+n_layers: 1
+batch_size: 300
+input_len: 150
+pretrain: False
+fine_tune: False
+glove_file: None
+num_epoches: 3
+learning_rate: 0.002
