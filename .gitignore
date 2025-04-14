@@ -1,2 +1,8 @@
 cpt/
-*.__pycache__
+__pycache__/
+test_data.csv
+test_raw_data.csv
+tokens2index.json
+training_data.csv
+training_raw_data.csv
+glove.6B/
